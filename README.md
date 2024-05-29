@@ -1,4 +1,4 @@
-# **FAE-MFDriveNet: Feature Attention Embedding-based Multimodal Fusion Driving Behavior Prediction Network**
+# **FMDNet: Feature-attention-embedding-based Multimodal-fusion Driving-behavior-classification Network**
 
 ![](architecture.PNG)
 
