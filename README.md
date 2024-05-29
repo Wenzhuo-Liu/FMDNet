@@ -24,7 +24,6 @@ PyTorch implementation of the paper "FMDNet: Feature-attention-embedding-based M
 1.Origin UAH-DriveSet : This dataset is captured by DriveSafe, a driving monitoring application.The application is run by 6 different drivers and vehicles, performing 3 different driving behaviors (normal, drowsy and aggressive) on two types of roads (motorway and secondary road), resulting in more than 500 minutes of naturalistic driving with its associated raw data and processed semantic information, together with the video recordings of the trips. The UAH-DriveSet is available at: http://www.robesafe.com/personal/eduardo.romera/uah-driveset.
 
 2.Processes UAH-DriveSet: First of all, since the UAH-DriveSet captures the roadside video during driving, we extract the last frame of every second from the video. Secondly, we interpolate the seven one-dimensional data in the RAW_GPS file, i.e. vehicle speed, turning angle and acceleration and expand it to 1260 data every second. Then merge the data of *x* seconds and the first four seconds into a txt file named *x.txt*, which corresponds to the last frame image *x.jpg* of x seconds. 
-% Please refer to: [Baidu Cloud link](https://pan.baidu.com/s/1BOK_4rewfofSY79V82muEg?pwd=44sX)
 
 
 
