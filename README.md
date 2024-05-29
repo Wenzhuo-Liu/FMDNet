@@ -2,7 +2,7 @@
 
 ![](architecture.PNG)
 
-PyTorch implementation of the paper "FAE-MFDriveNet: Feature Attention Embedding-based Multimodal Fusion Driving Behavior Prediction Network"
+PyTorch implementation of the paper "FMDNet: Feature-attention-embedding-based Multimodal-fusion Driving-behavior-classification Network"
 
 
 
