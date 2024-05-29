@@ -11,7 +11,7 @@ PyTorch implementation of the paper "FMDNet: Feature-attention-embedding-based M
 
 
 
-- [2023-07-05] Release the initial code for FAE-MFDriveNet.
+- [2023-07-05] Release the initial code for FMDNet.
 
 
 
